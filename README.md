@@ -11,7 +11,3 @@ Usage:</br>
 - Ensure you have Python installed on your system.
 - Clone github repositorium in a directory of your choice.
 - Run the script using a Python interpreter.
-
-Prerequisites:</br>
-- Python 3.x
-- Operating System: Windows </br>
